@@ -1,0 +1,500 @@
+Property Type,State,City, Cap Rate 
+Office,AK,, 15.00 
+Office,AL,, 9.25 
+Office,AR,, 9.00 
+Office,AZ,Phoenix, 6.75 
+Office,AZ,, 7.75 
+Office,CA,Oakland, 5.50 
+Office,CA,San Francisco, 5.00 
+Office,CA,San Jose, 7.00 
+Office,CA,Los Angeles, 5.50 
+Office,CA,Orange County, 5.50 
+Office,CA,San Diego, 6.25 
+Office,CA,Sacramento, 7.00 
+Office,CA,, 7.00 
+Office,CO,Denver, 5.75 
+Office,CO,, 6.75 
+Office,CT,Fairfield County, 7.50 
+Office,CT,, 8.50 
+Office,DC,Washington, 5.75 
+Office,DC,, 6.75 
+Office,DE,, 6.75 
+Office,FL,Jacksonville, 7.25 
+Office,FL,Miami, 6.25 
+Office,FL,Orlando, 6.75 
+Office,FL,, 7.25 
+Office,FL,Tampa, 7.00 
+Office,FL,, 7.25 
+Office,GA,Atlanta, 6.50 
+Office,GA,, 7.50 
+Office,HI,, 12.00 
+Office,IA,, 9.75 
+Office,ID,, 8.25 
+Office,IL,Chicago, 6.75 
+Office,IL,, 7.75 
+Office,IN,Indianapolis, 8.50 
+Office,IN,, 9.50 
+Office,KS,, 9.50 
+Office,KY,, 9.00 
+Office,LA,, 7.50 
+Office,MA,Boston, 5.25 
+Office,MA,, 6.25 
+Office,MD,Baltimore, 8.50 
+Office,MD,, 9.50 
+Office,ME,, 9.50 
+Office,MI,Detroit, 9.25 
+Office,MI,, 9.50 
+Office,MN,Minneapolis, 6.75 
+Office,MN,St. Paul, 6.75 
+Office,MN,, 7.75 
+Office,MO,Kansas City, 7.75 
+Office,MO,St. Louise, 9.75 
+Office,MO,, 9.75 
+Office,MS,, 9.00 
+Office,MT,, 9.00 
+Office,NC,Charlotte, 7.25 
+Office,NC,Raleigh-Durham, 6.50 
+Office,NC,, 7.25 
+Office,ND,, 8.00 
+Office,NE,, 9.50 
+Office,NH,, 7.50 
+Office,NJ,, 7.00 
+Office,NM,Albuquerque, 9.00 
+Office,NM,, 10.00 
+Office,NV,Las Vegas, 7.50 
+Office,NV,, 8.50 
+Office,NY,New York, 4.75 
+Office,NY,, 5.75 
+Office,OH,Cincinnati, 8.50 
+Office,OH,Cleveland, 8.75 
+Office,OH,Columbus, 8.50 
+Office,OH,, 8.75 
+Office,OK,Oklahoma City, 8.00 
+Office,OK,, 9.00 
+Office,OR,Portland, 5.25 
+Office,OR,, 6.25 
+Office,PA,Philadelphia, 6.75 
+Office,PA,Pittsburgh, 7.25 
+Office,PA,, 7.25 
+Office,RI,, 7.00 
+Office,SC,, 7.00 
+Office,SD,, 7.50 
+Office,TN,Memphis, 9.00 
+Office,TN,Nashville, 6.50 
+Office,TN,, 9.00 
+Office,TX,Austin, 6.00 
+Office,TX,Houston, 6.75 
+Office,TX,Dallas, 7.25 
+Office,TX,Ft. Worth, 7.25 
+Office,TX,San Antonio, 7.50 
+Office,TX,, 7.50 
+Office,UT,Salt Lake City, 6.25 
+Office,UT,, 7.25 
+Office,VA,, 9.00 
+Office,VT,, 7.50 
+Office,WA,Seattle, 5.25 
+Office,WA,, 6.25 
+Office,WI,, 10.00 
+Office,WV,, 9.50 
+Office,WY,, 10.00 
+Industrial,AK,, 10.00 
+Industrial,AL,, 9.00 
+Industrial,AZ,Phoenix, 5.25 
+Industrial,AZ,, 6.25 
+Industrial,AR,, 8.00 
+Industrial,CA,Oakland, 4.25 
+Industrial,CA,San Francisco, 4.25 
+Industrial,CA,San Jose, 4.25 
+Industrial,CA,Inland Empire, 4.25 
+Industrial,CA,Los Angeles, 4.25 
+Industrial,CA,Orange County, 4.25 
+Industrial,CA,San Diego, 5.00 
+Industrial,CA,Sacramento, 5.50 
+Industrial,CA,, 5.00 
+Industrial,CO,Denver, 4.75 
+Industrial,CO,, 5.75 
+Industrial,CT,Fairfield County, 6.25 
+Industrial,CT,, 7.25 
+Industrial,DC,Washington, 4.65 
+Industrial,DC,, 5.50 
+Industrial,DE,, 6.75 
+Industrial,FL,Orlando, 5.25 
+Industrial,FL,Miami, 4.75 
+Industrial,FL,Jacksonville, 5.75 
+Industrial,FL,Tampa, 5.75 
+Industrial,FL,, 5.75 
+Industrial,GA,Savannah, 5.50 
+Industrial,GA,Atlanta, 5.00 
+Industrial,GA,, 6.00 
+Industrial,HI,Honolulu, 6.00 
+Industrial,HI,, 7.00 
+Industrial,ID,, 6.75 
+Industrial,IL,Chicago, 5.00 
+Industrial,IL,, 6.00 
+Industrial,IN,Indianapolis, 5.25 
+Industrial,IN,, 6.25 
+Industrial,IA,, 7.50 
+Industrial,KS,, 7.00 
+Industrial,KY,Louisville, 5.75 
+Industrial,KY,, 6.75 
+Industrial,LA,, 6.00 
+Industrial,MA,, 5.00 
+Industrial,MD,Baltimore, 4.65 
+Industrial,MD,, 5.65 
+Industrial,ME,, 7.50 
+Industrial,MI,Detroit, 6.25 
+Industrial,MI,, 7.25 
+Industrial,MN,Minneapolis, 5.50 
+Industrial,MN,St. Paul, 5.50 
+Industrial,MN,, 6.00 
+Industrial,MS,, 7.50 
+Industrial,MO,Kansas City, 6.00 
+Industrial,MO,St. Louise, 6.00 
+Industrial,MO,, 6.00 
+Industrial,MT,, 7.00 
+Industrial,NC,Charlotte, 5.25 
+Industrial,NC,Raleigh-Durham, 6.00 
+Industrial,NC,, 6.50 
+Industrial,NE,, 6.75 
+Industrial,ND,, 6.75 
+Industrial,NH,, 7.00 
+Industrial,NJ,North Jersey, 4.00 
+Industrial,NJ,, 5.00 
+Industrial,NM,Albuquerque, 8.25 
+Industrial,NM,, 9.25 
+Industrial,NV,Las Vegas, 5.25 
+Industrial,NV,Reno, 5.50 
+Industrial,NV,, 6.50 
+Industrial,NY,, 5.50 
+Industrial,OH,Columbus, 5.25 
+Industrial,OH,Cincinnati, 5.25 
+Industrial,OH,Cleveland, 6.75 
+Industrial,OH,, 6.75 
+Industrial,OK,Oklahoma City, 5.50 
+Industrial,OK,Tulsa, 7.00 
+Industrial,OK,, 7.00 
+Industrial,OR,Portland, 5.00 
+Industrial,OR,, 6.00 
+Industrial,PA,Philadelphia, 5.00 
+Industrial,PA,Pittsburg, 5.75 
+Industrial,PA,I-78/81 Corridor, 5.00 
+Industrial,PA,, 5.75 
+Industrial,RI,, 5.50 
+Industrial,SC,, 6.50 
+Industrial,SD,, 7.00 
+Industrial,TN,Memphis, 6.00 
+Industrial,TN,Nashville, 5.50 
+Industrial,TN,, 6.50 
+Industrial,TX,El Paso, 7.25 
+Industrial,TX,Austin, 6.00 
+Industrial,TX,Dallas, 5.00 
+Industrial,TX,Ft. Worth, 5.00 
+Industrial,TX,San Antonio, 6.00 
+Industrial,TX,Houston, 5.00 
+Industrial,TX,, 7.00 
+Industrial,UT,Salt Lake City, 5.75 
+Industrial,UT,, 6.75 
+Industrial,VT,, 6.50 
+Industrial,VA,, 6.75 
+Industrial,WA,Seattle, 4.25 
+Industrial,WA,, 5.25 
+Industrial,WV,, 6.50 
+Industrial,WI,, 6.00 
+Industrial,WY,, 7.50 
+Retail,AK,, 9.50 
+Retail,AL,, 9.50 
+Retail,AR,, 9.50 
+Retail,AZ,Phoenix, 7.75 
+Retail,AZ,, 8.00 
+Retail,CA,Oakland, 7.00 
+Retail,CA,San Francisco, 7.00 
+Retail,CA,San Jose, 7.00 
+Retail,CA,Inland Empire, 7.25 
+Retail,CA,Los Angeles, 6.75 
+Retail,CA,San Diego, 6.75 
+Retail,CA,Orange County, 6.75 
+Retail,CA,Sacramento, 7.50 
+Retail,CA,, 7.50 
+Retail,CO,Denver, 7.25 
+Retail,CO,, 7.50 
+Retail,CT,Fairfield County, 7.00 
+Retail,CT,, 8.00 
+Retail,DE,, 8.50 
+Retail,DC,Washington, 7.50 
+Retail,DC,, 7.50 
+Retail,FL,Ft. Lauderdale, 7.25 
+Retail,FL,Jacksonville, 8.00 
+Retail,FL,Miami, 7.25 
+Retail,FL,West Palm Beach, 7.25 
+Retail,FL,Orlando, 8.00 
+Retail,FL,Tampa, 8.00 
+Retail,FL,, 8.00 
+Retail,GA,Atlanta, 8.25 
+Retail,GA,, 8.50 
+Retail,HI,Honolulu, 5.75 
+Retail,HI,, 6.00 
+Retail,ID,, 7.50 
+Retail,IL,Chicago, 7.50 
+Retail,IL,, 8.00 
+Retail,IN,Indianapolis, 8.25 
+Retail,IN,, 8.75 
+Retail,IA,, 8.75 
+Retail,KS,, 8.50 
+Retail,KY,, 9.00 
+Retail,LA,, 7.75 
+Retail,ME,, 8.00 
+Retail,MA,Boston, 7.00 
+Retail,MA,, 7.50 
+Retail,MD,Baltimore, 8.00 
+Retail,MD,, 8.75 
+Retail,MI,Detroit, 8.75 
+Retail,MI,, 9.00 
+Retail,MN,Minneapolis, 7.50 
+Retail,MN,St. Paul, 7.50 
+Retail,MN,, 8.00 
+Retail,MS,, 8.50 
+Retail,MO,Kansas City, 8.25 
+Retail,MO,, 8.75 
+Retail,MT,, 8.75 
+Retail,NE,, 8.75 
+Retail,NV,Las Vegas, 8.25 
+Retail,NV,, 9.00 
+Retail,NH,, 9.00 
+Retail,NJ,North Jersey, 7.00 
+Retail,NJ,, 7.50 
+Retail,NM,Albuquerque, 8.50 
+Retail,NM,, 9.00 
+Retail,NY,, 6.00 
+Retail,NC,Charlotte, 8.25 
+Retail,NC,, 8.50 
+Retail,ND,, 9.00 
+Retail,OH,Cincinnati, 8.25 
+Retail,OH,Cleveland, 9.00 
+Retail,OH,Columbus, 8.25 
+Retail,OH,, 9.00 
+Retail,OK,, 9.00 
+Retail,OR,Portland, 7.00 
+Retail,OR,, 7.50 
+Retail,PA,Philadelphia, 7.50 
+Retail,PA,Pittsburgh, 8.50 
+Retail,PA,, 8.50 
+Retail,RI,, 7.00 
+Retail,SC,, 8.25 
+Retail,SD,, 8.50 
+Retail,TN,Nashville, 7.50 
+Retail,TN,Memphis, 7.50 
+Retail,TN,, 7.50 
+Retail,TX,Austin, 7.25 
+Retail,TX,Houston, 8.00 
+Retail,TX,Dallas, 8.00 
+Retail,TX,Ft. Worth, 8.00 
+Retail,TX,San Antonio, 8.25 
+Retail,TX,, 8.25 
+Retail,UT,Salt Lake City, 7.25 
+Retail,UT,, 7.75 
+Retail,VT,, 7.00 
+Retail,VA,, 7.50 
+Retail,WA,Seattle, 7.00 
+Retail,WA,, 7.50 
+Retail,WV,, 8.50 
+Retail,WI,, 8.00 
+Retail,WY,, 9.00 
+Multi-Family,AL,, 7.00 
+Multi-Family,AK,, 7.50 
+Multi-Family,AZ,Phoenix, 4.75 
+Multi-Family,AZ,, 5.25 
+Multi-Family,AR,, 6.00 
+Multi-Family,CA,Oakland, 4.75 
+Multi-Family,CA,San Francisco, 4.25 
+Multi-Family,CA,San Jose, 4.25 
+Multi-Family,CA,Los Angeles, 4.50 
+Multi-Family,CA,Orange County, 4.50 
+Multi-Family,CA,Inland Empire, 4.75 
+Multi-Family,CA,Sacramento, 5.00 
+Multi-Family,CA,San Diego, 4.25 
+Multi-Family,CA,, 5.00 
+Multi-Family,CO,Denver, 4.75 
+Multi-Family,CO,, 5.25 
+Multi-Family,CT,Fairfield County, 5.00 
+Multi-Family,CT,, 5.50 
+Multi-Family,DE,, 6.00 
+Multi-Family,DC,Washington, 4.75 
+Multi-Family,FL,Ft. Lauderdale, 4.75 
+Multi-Family,FL,Miami, 4.50 
+Multi-Family,FL,West Palm Beach, 4.75 
+Multi-Family,FL,Orlando, 4.75 
+Multi-Family,FL,Tampa, 5.00 
+Multi-Family,FL,Jacksonville, 5.00 
+Multi-Family,FL,, 5.00 
+Multi-Family,GA,Atlanta, 5.00 
+Multi-Family,GA,, 5.50 
+Multi-Family,HI,Honolulu, 6.00 
+Multi-Family,HI,, 7.00 
+Multi-Family,ID,, 6.50 
+Multi-Family,IL,Chicago, 4.75 
+Multi-Family,IL,, 5.25 
+Multi-Family,IN,Indianapolis, 5.25 
+Multi-Family,IN,, 5.50 
+Multi-Family,IA,, 5.75 
+Multi-Family,KS,, 5.75 
+Multi-Family,KY,, 6.00 
+Multi-Family,LA,, 5.50 
+Multi-Family,ME,, 6.00 
+Multi-Family,MD,Baltimore, 5.50 
+Multi-Family,MD,, 6.00 
+Multi-Family,MA,Boston, 4.50 
+Multi-Family,MA,, 5.00 
+Multi-Family,MI,Detroit, 6.75 
+Multi-Family,MI,, 7.25 
+Multi-Family,MN,Minneapolis, 4.75 
+Multi-Family,MN,St. Paul, 4.75 
+Multi-Family,MN,, 5.25 
+Multi-Family,MS,, 5.50 
+Multi-Family,MO,Kansas City, 5.25 
+Multi-Family,MO,St. Louise, 5.50 
+Multi-Family,MO,, 5.50 
+Multi-Family,MT,, 5.50 
+Multi-Family,NC,Charlotte, 5.00 
+Multi-Family,NC,, 5.75 
+Multi-Family,NE,, 5.75 
+Multi-Family,NV,, 5.75 
+Multi-Family,NH,, 6.50 
+Multi-Family,NJ,, 6.00 
+Multi-Family,NM,Albuquerque, 5.25 
+Multi-Family,NM,, 5.75 
+Multi-Family,NY,New York, 5.50 
+Multi-Family,NY,, 5.75 
+Multi-Family,NC,Raleigh-Durham, 5.00 
+Multi-Family,NC,, 5.50 
+Multi-Family,ND,, 5.75 
+Multi-Family,OH,Cincinnati, 5.50 
+Multi-Family,OH,Cleveland, 6.25 
+Multi-Family,OH,Columbus, 5.50 
+Multi-Family,OH,, 6.25 
+Multi-Family,OK,Oklahoma City, 5.50 
+Multi-Family,OK,, 5.75 
+Multi-Family,OR,Portland, 4.50 
+Multi-Family,OR,, 5.00 
+Multi-Family,PA,Philadelphia, 5.00 
+Multi-Family,PA,Pittsburgh, 5.50 
+Multi-Family,PA,, 5.50 
+Multi-Family,RI,, 5.50 
+Multi-Family,SC,, 5.50 
+Multi-Family,SD,, 6.00 
+Multi-Family,TN,Nashville, 5.00 
+Multi-Family,TN,Memphis, 5.75 
+Multi-Family,TN,, 5.75 
+Multi-Family,TX,Austin, 4.25 
+Multi-Family,TX,Dallas, 4.75 
+Multi-Family,TX,Ft. Worth, 4.75 
+Multi-Family,TX,Houston, 4.50 
+Multi-Family,TX,San Antonio, 4.75 
+Multi-Family,TX,, 4.75 
+Multi-Family,UT,Salt Lake City, 5.00 
+Multi-Family,UT,, 5.50 
+Multi-Family,VT,, 5.75 
+Multi-Family,VA,, 5.75 
+Multi-Family,WA,Seattle, 4.25 
+Multi-Family,WA,, 5.00 
+Multi-Family,WV,, 5.50 
+Multi-Family,WI,Wilwaukee, 5.75 
+Multi-Family,WI,, 5.00 
+Multi-Family,WY,, 6.50 
+Hospitality,AL,, 9.50 
+Hospitality,AK,, 10.00 
+Hospitality,AZ,Phoenix, 6.50 
+Hospitality,AZ,, 7.50 
+Hospitality,AR,, 10.00 
+Hospitality,CA,Oakland, 8.50 
+Hospitality,CA,San Francisco, 7.00 
+Hospitality,CA,San Jose, 8.50 
+Hospitality,CA,Inland Empire, 9.00 
+Hospitality,CA,Los Angeles, 8.00 
+Hospitality,CA,Orange County, 8.00 
+Hospitality,CA,San Diego, 8.00 
+Hospitality,CA,Sacramento, 9.00 
+Hospitality,CA,, 9.00 
+Hospitality,CO,Denver, 6.00 
+Hospitality,CO,, 6.50 
+Hospitality,CT,, 6.00 
+Hospitality,DE,, 6.75 
+Hospitality,DC,, 6.00 
+Hospitality,DC,, 6.00 
+Hospitality,FL,Ft. Lauderdale, 8.00 
+Hospitality,FL,Miami, 7.00 
+Hospitality,FL,West Palm Beach, 8.50 
+Hospitality,FL,Orlando, 7.25 
+Hospitality,FL,Jacksonville, 7.50 
+Hospitality,FL,Tampa, 7.50 
+Hospitality,FL,, 8.50 
+Hospitality,GA,Atlanta, 8.00 
+Hospitality,GA,, 8.50 
+Hospitality,HI,Honolulu, 7.00 
+Hospitality,HI,, 7.50 
+Hospitality,ID,, 8.50 
+Hospitality,IL,Chicago, 7.75 
+Hospitality,IL,, 8.25 
+Hospitality,IN,Indianapolis, 8.50 
+Hospitality,IN,, 9.00 
+Hospitality,IA,, 9.00 
+Hospitality,KS,, 9.00 
+Hospitality,KY,, 9.00 
+Hospitality,LA,New Orleans, 7.75 
+Hospitality,LA,, 8.25 
+Hospitality,ME,, 8.50 
+Hospitality,MD,Baltimore, 7.50 
+Hospitality,MD,, 8.50 
+Hospitality,MA,Boston, 6.50 
+Hospitality,MA,, 7.50 
+Hospitality,MI,Detroit, 8.50 
+Hospitality,MI,, 9.00 
+Hospitality,MN,Minneapolis, 8.00 
+Hospitality,MN,St. Paul, 8.00 
+Hospitality,MN,, 8.75 
+Hospitality,MS,, 9.50 
+Hospitality,MO,St. Louise, 9.00 
+Hospitality,MO,, 9.50 
+Hospitality,MT,, 9.00 
+Hospitality,NE,, 9.00 
+Hospitality,NV,Las Vegas, 8.00 
+Hospitality,NV,, 9.00 
+Hospitality,NH,, 9.00 
+Hospitality,NJ,North Jersey, 6.75 
+Hospitality,NJ,, 7.25 
+Hospitality,NM,Albuquerque, 8.25 
+Hospitality,NM,, 9.00 
+Hospitality,NY,New York, 5.00 
+Hospitality,NY,, 5.50 
+Hospitality,NC,Charlotte, 8.00 
+Hospitality,NC,, 8.50 
+Hospitality,ND,, 8.75 
+Hospitality,OH,Cincinnati, 8.50 
+Hospitality,OH,Cleveland, 8.50 
+Hospitality,OH,Columbus, 8.50 
+Hospitality,OH,, 8.50 
+Hospitality,OK,Oklahoma City, 9.00 
+Hospitality,OK,, 9.00 
+Hospitality,OR,Portland, 8.25 
+Hospitality,OR,, 8.50 
+Hospitality,PA,Philadelphia, 6.50 
+Hospitality,PA,Pittsburgh, 8.50 
+Hospitality,PA,, 8.50 
+Hospitality,RI,, 7.75 
+Hospitality,SC,, 8.50 
+Hospitality,SD,, 8.50 
+Hospitality,TN,Nashville, 8.00 
+Hospitality,TN,, 8.75 
+Hospitality,TX,Austin, 8.00 
+Hospitality,TX,Dallas, 8.50 
+Hospitality,TX,Ft. Worth, 8.50 
+Hospitality,TX,Houston, 8.50 
+Hospitality,TX,, 8.50 
+Hospitality,UT,Salt Lake City, 7.25 
+Hospitality,UT,, 7.75 
+Hospitality,VT,, 8.00 
+Hospitality,VA,, 8.00 
+Hospitality,WA,Seattle, 6.50 
+Hospitality,WA,, 7.00 
+Hospitality,WV,, 8.50 
+Hospitality,WI,, 9.00 
+Hospitality,WY,, 9.00 

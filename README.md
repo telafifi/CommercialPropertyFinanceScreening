@@ -37,31 +37,6 @@ Open "GUI.java" file where the main method resides -> Run
     5. For Windows, navigate to the lib folder in this project and add all JAR files in the folder to the project
     6. For Mac, navigate to the lib_mac folder in this project and add all JAR files in the folder to the project
 
-#### Adding external jar files:
-
-    1. curvesapi-1.06
-    2. xmlbeans-3.1.0
-    3. commons-collections4-4.4
-    4. activation-1.1.1
-    5. commons-codec-1.13
-    6. commons-math3-3.6.1
-    7. jaxb-api-2.3.1
-    8. jaxb-core-2.3.0.1
-    9. jaxb-impl-2.3.2
-    10. junit-4.12
-    11. log4j-1.2.17
-    12. SparseBitSet-1.2
-    13. commons-compress-1.19
-    14. commons-logging-1.2
-    15. poi-4.1.2
-    16. poi-examples-4.1.2
-    17. poi-excelant-4.1.2
-    18. poi-ooxml-4.1.2
-    19. poi-ooxml-schemas-4.1.2
-    20. poi-scratchpad-4.1.2
-    21. swing2swt
-    22. com.ibm.icu_64.2.0.v20190507-1337
-
 ## Public Data Files:
 
 - TreasuryYield.csv file: 

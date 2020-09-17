@@ -1,5 +1,4 @@
 ﻿# Commercial Property Financing Application Screening Tool
-Final Project for CIT 591 - Introduction to Software Development
 
 The team developed a commercial property financing screening application for use by banks/lenders to evaluate the 
 risks involved with a loan and calculate the interest rate on loans. This tool will extracts public data such as 

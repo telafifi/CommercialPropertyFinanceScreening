@@ -1,6 +1,6 @@
 ﻿# Commercial Property Financing Application Screening Tool
 
-The team developed a commercial property financing screening application for use by banks/lenders to evaluate the 
+This is a commercial property financing screening application for use by banks/lenders to evaluate the 
 risks involved with a loan and calculate the interest rate on loans. This tool will extracts public data such as 
 US Treasury Bond yield, US population by city/town and capitalization rate by property type. These data will then
 be combined with loan specific information such as loan amount, location and Debt Service Coverage ratio (DSCR) 
@@ -71,8 +71,3 @@ Open "GUI.java" file where the main method resides -> Run
 on Slack, or any other method with the owners/other team members of this repository before making a change.
 - After the changes/updates are pushed to the repository, inform the owner/other team member about it. 
 
-## Authors
-
-- Tarek El-Afifi
-- Kristin Xie
-- Yu Zhang

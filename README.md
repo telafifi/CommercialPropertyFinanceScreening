@@ -65,9 +65,3 @@ Open "GUI.java" file where the main method resides -> Run
 - The 25 cases were ran indidivudally in the java screening tool. 
 - The output of each screening tool java test were then compared to the results of the scoring excel template
 
-## Contributing
-
-- The team first discussed any changes the member wishes to make via email or communication through private channel 
-on Slack, or any other method with the owners/other team members of this repository before making a change.
-- After the changes/updates are pushed to the repository, inform the owner/other team member about it. 
-

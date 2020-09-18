@@ -13,7 +13,7 @@ In simple terms, this is the loan amount divided by theoverall property value. T
 In this application, we utilize existing property data to create a regression model for property value estimation. As a rule of thumb: the higher the LTV, the riskier the loan is for the lender.
 
 <p align="center">
-  <img src="Resources/LTV.png" alt="LTV Image" width="45%">
+  <img src="Resources/LTVR.png" alt="LTV Image" width="45%">
 </p>
 
 ### Capitalization Rate (Cap Rate)

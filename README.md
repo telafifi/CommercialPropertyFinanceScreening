@@ -6,6 +6,13 @@ US Treasury Bond yield, US population by city/town and capitalization rate by pr
 be combined with loan specific information such as loan amount, location and Debt Service Coverage ratio (DSCR) 
 to conduct a feasibility assessment on the loan application. 
 
+## Key Finance Metrics Explained:
+### Load-To-Value (LTV)
+
+
+### Capitalization Rate
+
+
 ## Prerequisites
 
 Users need to install several Java apis plug-ins within Eclipse. Please see below for installation instructions.
